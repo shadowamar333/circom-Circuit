@@ -48,9 +48,7 @@ For Getting Fired Up You Need To Setup Your Compiler With Necesary Files:
 
  
 * Now You Can Design Your On circuit Using Different Types OF Gates Template Provided [HERE!](https://github.com/iden3/circomlib)
-
-         
-* Now You Are Set To GO!!!!!                                                                                                                                                  
+                                                                                                                                              
 ### Installing
 
 * Now You Need To Install The Project Template Circuit Files By Cloning This Reprository
